@@ -1,1 +1,1 @@
-# OCI-github-actions-test
+# oci-resource-manager-demo
