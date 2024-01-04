@@ -1,8 +1,8 @@
 name: oci-terraform-build-stack
 on:
   push:
-    tags:
-      - "v*"
+    branches:
+      - main
 jobs:
   build-stack:
     name: Build Stack
