@@ -1,0 +1,7 @@
+compartment_ocid	= "ocid1.compartment.oc1..aaaaaaaarhq3cdzx3yt7g4ywnqhs7yzlykuk6dxdkqi2ghqegsw62isjcjia"
+tenancy_ocid		= "ocid1.tenancy.oc1..aaaaaaaag65qrubqyi3pgy54obqjsamw56srtor7xmpkztpstfzbgy6qllaq"
+user_ocid		= "ocid1.user.oc1..aaaaaaaa2afhhk3g4xjdczoc7jat74kut6hpfo7swv3wfgrlww32jixnpr6a"
+private_key_path	= "/Users/shodai/.oci/terraform-key.pem"
+fingerprint		= "0f:ff:15:39:df:73:83:a1:b0:b2:8a:d1:c3:99:4d:90"
+region			= "ap-tokyo-1"
+bucket_namespace	= "nrwpeqpftjgf"
