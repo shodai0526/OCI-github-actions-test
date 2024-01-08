@@ -1,4 +1,4 @@
-name: oci-terraform-build
+name: oci-terraform-deploy
 on:
   push:
     branches:
